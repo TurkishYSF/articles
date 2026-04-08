@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! I am a multi-platform developer and independent researcher that interested in programming, languages and science from Türkiye. I am also the founder of YSF SOFT.
 
 ### More Information
 
