@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: aliyusufoztas@ysfsoft.com
   facebook:
   flickr:
   github: turkishysf
@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: user/ysfsoft
+  youtube: # channel/
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
