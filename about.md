@@ -4,12 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Hello! I am a multi-platform developer and independent researcher that interested in programming, languages and science from Türkiye. I am also the founder of YSF SOFT.
+Ali Yusuf Öztaş is a multi-platform developer and independent researcher that interested in programming, languages and science from Türkiye. He is the founder of YSF SOFT.
 
-### More Information
+### His Programming Experte
+He is proficient in C#, HTML, CSS, experienced in C, C++, PHP, Python, Java, JavaScript, Flutter, and more. He can develope easily desktop apps, mobile apps, and multi-platform games.
 
-A place to include any other types of information that you'd like to include about yourself.
+### His Projects
+* Dil Bahçesi (2026): This app called "Language Garden" allows people to learn a lot of new languaes.
+* Parachute Down (2024): A mobile game.
+* Pong (2023): A modern-looking mobile arcade game.
+* The Spaceship: A mobile arcade game.
 
-### Contact me
+### Language Proficiency
+* Turkish: Native speaker.
+* English: Intermediate or advanced.
+* German: Intermediate (B1 level).
+* More languages: He has learned many languages from Spanish to Tajik.
 
-[email@domain.com](mailto:email@domain.com)
+[aliyusufoztas@ysfsoft.com](mailto:aliyusufoztas@ysfsoft.com)
